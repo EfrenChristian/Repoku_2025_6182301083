@@ -1,1 +1,2 @@
-Ini file 1
+Ini file 1 //update
+ini baris baru
